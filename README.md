@@ -42,7 +42,7 @@ Click on any exercise to get started! Each prompt file contains step-by-step ins
 | # | Exercise | Attachment | Copilot Capability |
 |---|----------|------------|-------------------|
 | 1 | [Database Schema to Code](prompts/01-database-schema.md) | `DB-Schema.png` | Vision - Generate SQL/ORM from diagrams |
-| 2 | [Architecture Diagram Analysis](prompts/02-architecture-diagram.md) | `Diagram.png` | Vision - Interpret system designs |
+| 2 | [Architecture Diagram Analysis](prompts/02-architecture-diagram.md) | `architectureDiagram.png` | Vision - Interpret system designs |
 | 3 | [Elevator Error Troubleshooting](prompts/03-elevator-troubleshooting.md) | `elevator.png` | Vision - Diagnose issues from images |
 | 4 | [Legacy COBOL Modernization](prompts/04-cobol-modernization.md) | `MonthTable.cob` | Code conversion to Python/C# |
 | 5 | [Code Documentation](prompts/05-code-documentation.md) | `MonthTable.cob` | Auto-generate documentation |
@@ -58,7 +58,7 @@ Click on any exercise to get started! Each prompt file contains step-by-step ins
 ![Database Schema](DB-Schema.png)
 
 ### Exercise 2: Architecture Diagram
-![Architecture Diagram](Diagram.png)
+![Architecture Diagram](architectureDiagram.png)
 
 ### Exercise 3: Elevator Error Code
 ![Elevator Error Code](elevator.png)
@@ -79,7 +79,7 @@ ghcp-hackathon/
 │   ├── 07-test-generation.md
 │   └── 08-fullstack-scaffold.md
 ├── DB-Schema.png               # Database schema diagram
-├── Diagram.png                 # Architecture diagram
+├── architectureDiagram.png     # Architecture diagram
 ├── Diagram (1).png             # Alternative architecture diagram
 ├── elevator.png                # Elevator error code display
 ├── MonthTable.cob              # Legacy COBOL program

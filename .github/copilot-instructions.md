@@ -9,6 +9,6 @@ When users run prompts from the `prompts/` folder, provide detailed, educational
 
 ## Repository Files
 - `DB-Schema.png` - Database schema diagram
-- `Diagram.png` / `Diagram (1).png` - Architecture diagrams  
+- `architectureDiagram.png` / `Diagram (1).png` - Architecture diagrams
 - `elevator.png` - Elevator error code display
 - `MonthTable.cob` - Legacy COBOL program
