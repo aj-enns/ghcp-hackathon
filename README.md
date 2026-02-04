@@ -6,6 +6,46 @@ Welcome to the GitHub Copilot Hackathon! This guide contains hands-on exercises 
 
 ---
 
+## 🚀 Quick Start
+
+```bash
+# Clone the repository
+git clone https://github.com/aj-enns/ghcp-hackathon.git
+
+# Open in VS Code
+code ghcp-hackathon
+```
+
+1. **Install recommended extensions** - VS Code will prompt you to install GitHub Copilot
+2. **Open a prompt file** - Navigate to the `prompts/` folder and open any exercise
+3. **Follow the instructions** - Each prompt file has step-by-step instructions
+4. **Attach files/images** - Use the 📎 button in Copilot Chat to attach the referenced files
+
+---
+
+## 📁 Repository Structure
+
+```
+ghcp-hackathon/
+├── prompts/                    # 👈 Start here! Ready-to-use prompt files
+│   ├── 01-database-schema.md
+│   ├── 02-architecture-diagram.md
+│   ├── 03-elevator-troubleshooting.md
+│   ├── 04-cobol-modernization.md
+│   ├── 05-code-documentation.md
+│   ├── 06-security-analysis.md
+│   ├── 07-test-generation.md
+│   └── 08-fullstack-scaffold.md
+├── DB-Schema.png               # Database schema diagram
+├── Diagram.png                 # Architecture diagram
+├── Diagram (1).png             # Alternative architecture diagram
+├── image (41).png              # Elevator error code display
+├── MonthTable.cob              # Legacy COBOL program
+└── README.md                   # This file
+```
+
+---
+
 ## 🎯 Prerequisites
 
 - GitHub Copilot extension installed in VS Code
