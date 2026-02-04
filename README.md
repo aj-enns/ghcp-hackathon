@@ -43,7 +43,7 @@ Using the image below, create the SQL DDL statements to build this database sche
 
 ![Architecture Diagram](Diagram.png)
 
-![Architecture Diagram Alternative](Diagram%20%281%29.png)
+
 
 **Objective:** Show how Copilot can interpret system architecture diagrams and generate implementation code.
 
