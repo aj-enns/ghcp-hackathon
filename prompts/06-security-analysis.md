@@ -1,10 +1,16 @@
 # Exercise 6: Security Analysis
 
+⬅️ Previous: [05-code-documentation.md](05-code-documentation.md) | ➡️ Next: [07-test-generation.md](07-test-generation.md)
+
+---
+
 ## Instructions
-1. Open this file in VS Code
-2. Open GitHub Copilot Chat (Ctrl+Shift+I or Cmd+Shift+I)
-3. Attach any code file you've generated during the hackathon
-4. Copy and paste the prompt below into Copilot Chat
+
+1. Open GitHub Copilot Chat (`Ctrl+Shift+I` or `Cmd+Shift+I`)
+2. Click the 📎 **attachment button** in the chat input
+3. Select **any code file you've generated** during the hackathon
+4. Copy the prompt below and paste it into Copilot Chat
+5. Press Enter and watch Copilot find vulnerabilities!
 
 ---
 

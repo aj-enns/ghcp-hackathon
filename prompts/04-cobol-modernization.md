@@ -1,10 +1,16 @@
 # Exercise 4: Legacy COBOL Modernization
 
+⬅️ Previous: [03-elevator-troubleshooting.md](03-elevator-troubleshooting.md) | ➡️ Next: [05-code-documentation.md](05-code-documentation.md)
+
+---
+
 ## Instructions
-1. Open this file in VS Code
-2. Open GitHub Copilot Chat (Ctrl+Shift+I or Cmd+Shift+I)
-3. Attach the file: Click 📎 and select `MonthTable.cob` from this repo
-4. Copy and paste the prompt below into Copilot Chat
+
+1. Open GitHub Copilot Chat (`Ctrl+Shift+I` or `Cmd+Shift+I`)
+2. Click the 📎 **attachment button** in the chat input
+3. Select **`MonthTable.cob`** from the repo root
+4. Copy the prompt below and paste it into Copilot Chat
+5. Press Enter and watch Copilot modernize legacy code!
 
 ---
 

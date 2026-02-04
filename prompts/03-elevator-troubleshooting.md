@@ -1,10 +1,16 @@
 # Exercise 3: Elevator Error Troubleshooting
 
+⬅️ Previous: [02-architecture-diagram.md](02-architecture-diagram.md) | ➡️ Next: [04-cobol-modernization.md](04-cobol-modernization.md)
+
+---
+
 ## Instructions
-1. Open this file in VS Code
-2. Open GitHub Copilot Chat (Ctrl+Shift+I or Cmd+Shift+I)
-3. Attach the image: Click 📎 and select `image (41).png`
-4. Copy and paste the prompt below into Copilot Chat
+
+1. Open GitHub Copilot Chat (`Ctrl+Shift+I` or `Cmd+Shift+I`)
+2. Click the 📎 **attachment button** in the chat input
+3. Select **`image (41).png`** from the repo root
+4. Copy the prompt below and paste it into Copilot Chat
+5. Press Enter and watch Copilot diagnose the error!
 
 ---
 

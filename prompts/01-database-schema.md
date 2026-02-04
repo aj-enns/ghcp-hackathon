@@ -1,10 +1,16 @@
 # Exercise 1: Database Schema to Code
 
+⬅️ Previous: None | ➡️ Next: [02-architecture-diagram.md](02-architecture-diagram.md)
+
+---
+
 ## Instructions
-1. Open this file in VS Code
-2. Open GitHub Copilot Chat (Ctrl+Shift+I or Cmd+Shift+I)
-3. Attach the image: Click 📎 and select `DB-Schema.png` from this repo
-4. Copy and paste the prompt below into Copilot Chat
+
+1. Open GitHub Copilot Chat (`Ctrl+Shift+I` or `Cmd+Shift+I`)
+2. Click the 📎 **attachment button** in the chat input
+3. Select **`DB-Schema.png`** from the repo root
+4. Copy the prompt below and paste it into Copilot Chat
+5. Press Enter and watch Copilot analyze the image!
 
 ---
 
