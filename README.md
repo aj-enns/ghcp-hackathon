@@ -27,7 +27,6 @@ Using the image below, create the SQL DDL statements to build this database sche
 - Primary keys and foreign key relationships
 - Appropriate indexes for common queries
 
-[Attach DB-Schema.png]
 ```
 
 ### Follow-up Prompts:
@@ -54,7 +53,7 @@ Analyze this architecture diagram and:
 2. Generate a README.md documenting this architecture
 3. Create the folder structure for a project implementing this design
 
-[Attach Diagram.png]
+
 ```
 
 ### Follow-up Prompts:
@@ -64,28 +63,29 @@ Analyze this architecture diagram and:
 
 ---
 
-## Exercise 3: Vision - UI Mockup to Code 🎨
+## Exercise 3: Vision - Troubleshooting & Diagnostics 🔧
 
 **File:** `image (41).png`
 
-![UI Mockup](image%20%2841%29.png)
+![Elevator Error Code](image%20%2841%29.png)
 
-**Objective:** Demonstrate Copilot's ability to convert UI mockups into functional code.
+**Objective:** Demonstrate Copilot's ability to analyze error codes/diagnostic images and provide troubleshooting guidance.
 
 ### Prompt:
 ```
-Using this UI mockup, generate:
-1. The HTML structure with semantic elements
-2. CSS styles (or Tailwind classes) to match the design
-3. JavaScript/TypeScript for any interactive elements
+I'm seeing this error code on an elevator control panel. Please:
+1. Identify what this error code means
+2. Explain the possible causes of this error
+3. Provide step-by-step troubleshooting instructions
+4. Suggest when a professional technician should be called
 
-[Attach image (41).png]
 ```
 
 ### Follow-up Prompts:
-- "Convert this to a React component with TypeScript"
-- "Add accessibility features (ARIA labels, keyboard navigation)"
-- "Generate unit tests for the component interactions"
+- "What safety precautions should be taken before attempting any troubleshooting?"
+- "Is this error typically a hardware or software issue?"
+- "What replacement parts might be needed to fix this?"
+- "Generate a maintenance checklist to prevent this error in the future"
 
 ---
 
@@ -252,7 +252,7 @@ Generate OpenAPI/Swagger documentation for any API created during the exercises.
 | `DB-Schema.png` | Database design → Code generation |
 | `Diagram.png` | Architecture → Implementation |
 | `Diagram (1).png` | Alternative architecture exercise |
-| `image (41).png` | UI mockup → Frontend code |
+| `image (41).png` | Elevator error → Troubleshooting & diagnostics |
 | `MonthTable.cob` | Legacy modernization |
 
 ---
