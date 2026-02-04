@@ -8,7 +8,7 @@
 
 1. Open GitHub Copilot Chat (`Ctrl+Shift+I` or `Cmd+Shift+I`)
 2. Click the 📎 **attachment button** in the chat input
-3. Select **`image (41).png`** from the repo root
+3. Select **`elevator.png`** from the repo root
 4. Copy the prompt below and paste it into Copilot Chat
 5. Press Enter and watch Copilot diagnose the error!
 

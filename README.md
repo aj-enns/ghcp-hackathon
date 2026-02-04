@@ -43,7 +43,7 @@ Click on any exercise to get started! Each prompt file contains step-by-step ins
 |---|----------|------------|-------------------|
 | 1 | [Database Schema to Code](prompts/01-database-schema.md) | `DB-Schema.png` | Vision - Generate SQL/ORM from diagrams |
 | 2 | [Architecture Diagram Analysis](prompts/02-architecture-diagram.md) | `Diagram.png` | Vision - Interpret system designs |
-| 3 | [Elevator Error Troubleshooting](prompts/03-elevator-troubleshooting.md) | `image (41).png` | Vision - Diagnose issues from images |
+| 3 | [Elevator Error Troubleshooting](prompts/03-elevator-troubleshooting.md) | `elevator.png` | Vision - Diagnose issues from images |
 | 4 | [Legacy COBOL Modernization](prompts/04-cobol-modernization.md) | `MonthTable.cob` | Code conversion to Python/C# |
 | 5 | [Code Documentation](prompts/05-code-documentation.md) | `MonthTable.cob` | Auto-generate documentation |
 | 6 | [Security Analysis](prompts/06-security-analysis.md) | Any generated code | OWASP Top 10 review |
@@ -61,7 +61,7 @@ Click on any exercise to get started! Each prompt file contains step-by-step ins
 ![Architecture Diagram](Diagram.png)
 
 ### Exercise 3: Elevator Error Code
-![Elevator Error Code](image%20%2841%29.png)
+![Elevator Error Code](elevator.png)
 
 ---
 
@@ -81,7 +81,7 @@ ghcp-hackathon/
 ├── DB-Schema.png               # Database schema diagram
 ├── Diagram.png                 # Architecture diagram
 ├── Diagram (1).png             # Alternative architecture diagram
-├── image (41).png              # Elevator error code display
+├── elevator.png                # Elevator error code display
 ├── MonthTable.cob              # Legacy COBOL program
 └── README.md                   # This file
 ```
