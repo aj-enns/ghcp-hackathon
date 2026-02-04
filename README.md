@@ -1,5 +1,7 @@
 # GitHub Copilot Hackathon Guide 🚀
 
+> 💡 **Credit:** Hackathon ideas and inspiration by [@jasonmoodie](https://github.com/jasonmoodie)
+
 Welcome to the GitHub Copilot Hackathon! This guide contains hands-on exercises demonstrating Copilot's powerful capabilities using the files in this repository.
 
 ---
