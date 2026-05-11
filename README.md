@@ -1,10 +1,5 @@
 # GitHub Copilot Hackathon Guide 🚀
 
-> 💡 **Credit:** Hackathon ideas and inspiration by
->
-> <a href="https://github.com/jasonmoodie"><img src="https://avatars.githubusercontent.com/u/107932997?v=4" width="60" height="60" style="border-radius:50%"></a>
->
-> **[@jasonmoodie](https://github.com/jasonmoodie)**
 
 Welcome to the GitHub Copilot Hackathon! This guide contains hands-on exercises demonstrating Copilot's powerful capabilities using the files in this repository.
 
@@ -142,3 +137,9 @@ Generate OpenAPI/Swagger documentation for any API created during the exercises.
 ---
 
 Happy Hacking! 🎉
+
+> 💡 **Credit:** Hackathon ideas and inspiration by
+>
+> <a href="https://github.com/jasonmoodie"><img src="https://avatars.githubusercontent.com/u/107932997?v=4" width="60" height="60" style="border-radius:50%"></a>
+>
+> **[@jasonmoodie](https://github.com/jasonmoodie)**
